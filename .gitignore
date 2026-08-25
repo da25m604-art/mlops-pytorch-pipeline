@@ -28,3 +28,8 @@ test_*.png
 
 # local draft of the full README, promoted to README.md on the final PR
 README.full.md
+
+# validation screenshots / generated report — evidence stays local, never committed
+report/screenshots/*.png
+validation_report.html
+screenshots/
