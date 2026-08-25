@@ -1,0 +1,2 @@
+# optional custom captions, one per line: filename: caption
+# partc_05_curl_predict.png: prediction endpoint returning class probabilities
